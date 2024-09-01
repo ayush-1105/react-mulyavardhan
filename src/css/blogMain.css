@@ -10,13 +10,13 @@
     font-family: -apple-system, sans-serif;
 }
 
-body {
+.backgroundWhiteColor {
   margin-left: 10%;
   margin-right: 10%;
 }
 
 @media (max-width: 1200px) {
-  body {
+  .backgroundWhiteColor {
     margin-left: 5%;
     margin-right: 5%;
   }
