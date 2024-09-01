@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-mulyavardhan/static/css/main.30585442.css",
+    "main.js": "/react-mulyavardhan/static/js/main.1c4d61f8.js",
+    "static/media/testImage.jpg": "/react-mulyavardhan/static/media/testImage.01ecec57d3e2e89d1f50.jpg",
+    "index.html": "/react-mulyavardhan/index.html",
+    "main.30585442.css.map": "/react-mulyavardhan/static/css/main.30585442.css.map",
+    "main.1c4d61f8.js.map": "/react-mulyavardhan/static/js/main.1c4d61f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30585442.css",
+    "static/js/main.1c4d61f8.js"
+  ]
+}
